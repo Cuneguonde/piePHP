@@ -1,0 +1,17 @@
+body {
+    font-size: 10px;
+}
+pre {
+  font-size: 1em; 
+}
+h1 {
+  color: blue;
+}
+
+/* @keyframes noob {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-image: url("demon.jpg")}
+    50%  {background-color:blue; left:600px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+} */
